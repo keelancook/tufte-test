@@ -2,7 +2,7 @@
 baseurl: /tufte-test
 title: Commonplace Book
 # Whether the header (with large title and subtitle) should be displayed
-header: false
+header: true
 subtitle: An attempts a publishing my working notes of theology and assundries
 author: Keelan Cook
 description: A working journal of unfinished and developing notes.
